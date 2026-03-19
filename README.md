@@ -29,6 +29,9 @@ This template fundamentally transforms the NetSuite Developer Experience (DX) th
 - **Flagship Project:** [SuiteTools](https://github.com/mattplant/SuiteTools)
   *A high-performance React-based SPA built in TypeScript and deployed to NetSuite via SDF from a monorepo. It serves as the primary proof of concept for the methodologies outlined here.*
 
+- **Example Project:** [Order Queue](https://github.com/mattplant/netsuite-ts-sdf-order-queue)
+  *A minimal working example demonstrating the template in a realistic scenario — an order spooling pipeline built with a RESTlet, a custom record, and a Map/Reduce script.*
+
 ## 🙌 Acknowledgments & Attribution
 
 A rising tide lifts all boats. This methodology and the accompanying tools would not be possible without the incredible work of the broader NetSuite developer community. I am firmly standing on the shoulders of giants who paved the way for modern SuiteScript development.
